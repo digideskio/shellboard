@@ -6,7 +6,7 @@ Cricket Scores on your shell.
 
 1. clone
 2. `./cricket none` gives you match ids
-3. run as `./cricket.sh matchid` but `watch -n 40 -t /absolute/path/cricket.sh matchid`
+3. run as `./cricket.sh matchid` but `watch /absolute/path/cricket.sh matchid` should work
 
 ### you must get something like this :
 
@@ -23,8 +23,8 @@ Cricket Scores on your shell.
     India 132/1 (19.2 ov, V Kohli 72*, SR Tendulkar 52*, Saeed Ajmal 0/10)
 
 ### todo
-	1. arguments are badly passed.
-	2. Better match selection
-	3. Support other sports
+1. arguments are badly passed.
+2. Better match selection
+3. Support other sports
 
-	Patches welcome :D
+Patches welcome :D
