@@ -5,7 +5,7 @@ Cricket Scores on your shell.
 ### ok so how do I use it?
 
 1. clone
-2. `./cricket` gives you match ids
+2. `./cricket,sh` gives you match ids
 3. run as `./cricket.sh -m matchid` but `watch -n 40 -t /absolute/path/cricket.sh -m matchid`
 
 ### you must get something like this :
@@ -26,4 +26,4 @@ Cricket Scores on your shell.
 	1. remove white spaces
 	2. Support other sports
 
-	Patches welcome :D
+Patches welcome :D
