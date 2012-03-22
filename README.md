@@ -6,7 +6,7 @@ Cricket Scores on your shell.
 
 1. clone
 2. `./cricket.sh` gives you match ids
-3. run as `./cricket.sh -m matchid` but use to get a continous update `watch -n 40 -t /absolute/path/cricket.sh -m matchid`
+3. run as `./cricket.sh -m matchid` but use `watch -n 40 -t /absolute/path/cricket.sh -m matchid` to get a nice continous update
 
 ### you must get something like this :
 
@@ -23,7 +23,7 @@ Cricket Scores on your shell.
     India 132/1 (19.2 ov, V Kohli 72*, SR Tendulkar 52*, Saeed Ajmal 0/10)
 
 ### todo
-	1. remove white spaces
-	2. Support other sports
+1. remove white spaces
+2. Support other sports
 
-Patches welcome :D
+**Pull requests** welcome :D
