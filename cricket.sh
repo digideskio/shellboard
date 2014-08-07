@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # runs as `watch -n 40 -t cricket.sh`
 
 if [ "$1" != ""  ]; then 
